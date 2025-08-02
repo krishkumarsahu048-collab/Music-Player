@@ -1,6 +1,6 @@
-pyrogram
+pyrogram==1.4.16
 tgcrypto
-pytgcalls==latest_or_any_version
+pytgcalls==1.2.2
 python-dotenv
 yt-dlp
 youtube-search-python
